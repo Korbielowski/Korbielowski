@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Korbielowski
 - 👀 I’m interested in informatics and automotive world
-- 🌱 I’m currently learning Java
 - 📫 You can e-mail me on: dawidstasinski12@gmail.com
 
 <!---
