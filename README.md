@@ -24,10 +24,8 @@ I'm an ambitious second year student of Applied Computer Science and Measurement
 
 ![Korbielowski'a Github stats](https://github-readme-stats.vercel.app/api?username=Korbielowski&show_icons=true&theme=gruvbox)
 
----
-
-
 <!--<details>
+---
 ### Something more about me 🙋🏻
  <summary><h3>Something more about me 🙋🏻</h3></summary>
 </details>
