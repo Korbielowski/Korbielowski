@@ -2,7 +2,7 @@
 
 **`Student | Passionate Python Developer`**
 
-I'm an ambitious second year student of Applied Computer Science and Measurement Systems on University of Wrocław in Poland. Every time I build a project I'm trying to acquire new skills while at the same time doing what I really interests me.
+I'm an ambitious second year student of Applied Computer Science and Measurement Systems on University of Wrocław in Poland. Every time I build a project I'm trying to acquire new skills while doing what I really interests me.
 
 ---
 
@@ -26,9 +26,9 @@ I'm an ambitious second year student of Applied Computer Science and Measurement
 
 ---
 
-### Something more about me 🙋🏻
 
 <!--<details>
+### Something more about me 🙋🏻
  <summary><h3>Something more about me 🙋🏻</h3></summary>
 </details>
 -->
