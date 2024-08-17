@@ -20,6 +20,24 @@ I'm an ambitious second year student of Applied Computer Science and Measurement
 
 ---
 
+```toml
+[project]
+name = "Dawid Stasiński"
+version = "21"
+dependencies = [
+  "8 hours of sleep",
+  "Spaghetti",
+  "Python",
+]
+description = "Student | Passionate Python Developer"
+readme = "README.md"
+keywords = ["cycling", "photography"]
+[project.urls]
+TODO
+```
+
+---
+
 ### Stats 📈
 
 ![Korbielowski'a Github stats](https://github-readme-stats.vercel.app/api?username=Korbielowski&show_icons=true&theme=gruvbox)
