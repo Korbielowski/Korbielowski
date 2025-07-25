@@ -35,15 +35,13 @@ dependencies = [
 description = "Student | Passionate Python Developer"
 readme = "README.md"
 hobbies = ["cycling", "photography", "programming", "hiking", "chess"]
-[project.urls]
-TODO
 ```
 
 ---
 
-### Stats 📈
+<!--### Stats 📈
 
-![Korbielowski'a Github stats](https://github-readme-stats.vercel.app/api?username=Korbielowski&show_icons=true&theme=gruvbox)
+![Korbielowski'a Github stats](https://github-readme-stats.vercel.app/api?username=Korbielowski&show_icons=true&theme=gruvbox)-->
 
 <!--<details>
 ---
