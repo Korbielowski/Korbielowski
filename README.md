@@ -37,9 +37,9 @@ readme = "README.md"
 hobbies = ["cycling", "photography", "programming", "hiking", "chess"]
 ```
 
----
+<!-----
 
-<!--### Stats 📈
+### Stats 📈
 
 ![Korbielowski'a Github stats](https://github-readme-stats.vercel.app/api?username=Korbielowski&show_icons=true&theme=gruvbox)-->
 
