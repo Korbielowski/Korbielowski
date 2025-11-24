@@ -55,8 +55,3 @@ devops_and_engineering = [
 ]
 hobbies = ["cycling", "hiking", "photography", "F1"]
 ```
-
-### Contact ☎️
-* <a href="www.linkedin.com/in/dawid-stasinski123"><img align="left" alt="LinkedIn Profile" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
-
-* <a href="mailto:dawidstasinski12@gmail.com"><img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
