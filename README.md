@@ -1,55 +1,60 @@
-# Dawid Stasiński 👨🏻‍💻
-
-**`Student | Passionate Python Developer`**
-
-I'm an ambitious third year student of Applied Computer Science and Measurement Systems at University of Wrocław in Poland. Every time I work on a project I'm trying to acquire new skills while pursuing my genuine interests. Besides from programming I love photographing landscapes and going on bike trips.
-
----
-
-### Languages and Tools 🧰
-
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original-wordmark.svg" />
-<img align="left" alt="Sqlite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original-wordmark.svg" />
-<img align="left" alt="Sqlite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-
-<br>
-
----
-
 ```toml
 [project]
 name = "Dawid Stasiński"
-version = "21"
-dependencies = [
-  "8 hours of sleep",
-  "Spaghetti",
+role = "Passionate Python Developer"
+about_me = "
+I'm Dawid, a Software Engineer based in Częstochowa, Poland. I specialize in Python and Backend development.
+My focus is bridging the gap between classic engineering and Machine Learning & AI.
+
+Most recently, I worked as a Software Developer at Nokia, where I automated tests and maintained CI/CD pipelines
+using Robot Framework, Docker, and Wireshark.
+I also developed CLI tools that streamlined release processes for the internal team.
+
+Currently, I'm building End-to-End ML systems (check out my F1 project!)
+and I'm open to new opportunities as a Python or ML Engineer.
+
+Beyond the screen, I capture moments through photography and explore the world on hikes and nature trips.
+Always learning, always building.
+"
+programming_languages = [
   "Python",
   "C",
+  "Bash",
+  "SQL",
+  "JavaScript"
 ]
-description = "Student | Passionate Python Developer"
-readme = "README.md"
-hobbies = ["cycling", "photography", "programming", "hiking", "chess"]
+machine_leraning_and_data_sciene = [
+  "PyTorch",
+  "Scikit-Learn",
+  "Transformers",
+  "Pandas",
+  "NumPy",
+  "SciPy",
+  "Matplotlib",
+  "Seaborn"
+]
+backend_apis_and_databases = [
+  "FastAPI",
+  "Streamlit",
+  "SQLModel",
+  "PostgreSQL",
+  "Pydantic",
+  "OpenAI API"
+]
+devops_and_engineering = [
+  "Docker",
+  "Linux",
+  "Vim/Neovim",
+  "Git",
+  "GitLab CI",
+  "Robot Framework",
+  "Pytest",
+  "Playwright",
+  "uv",
+  "Ruff"
+]
+hobbies = ["cycling", "hiking", "photography", "F1"]
 ```
-
-<!-----
-
-### Stats 📈
-
-![Korbielowski'a Github stats](https://github-readme-stats.vercel.app/api?username=Korbielowski&show_icons=true&theme=gruvbox)-->
-
-<!--<details>
----
-### Something more about me 🙋🏻
- <summary><h3>Something more about me 🙋🏻</h3></summary>
-</details>
--->
----
 
 ### Contact ☎️
 * <a href="www.linkedin.com/in/dawid-stasinski123"><img align="left" alt="LinkedIn Profile" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
