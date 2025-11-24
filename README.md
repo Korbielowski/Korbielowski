@@ -2,7 +2,7 @@
 [project]
 name = "Dawid Stasiński"
 role = "Passionate Python Developer"
-about_me = "
+about_me = """
   I'm Dawid, a Software Engineer based in Częstochowa, Poland. I specialize in Python and Backend development.
   My focus is bridging the gap between classic engineering and Machine Learning & AI.
   
@@ -15,15 +15,15 @@ about_me = "
   
   Beyond the screen, I capture moments through photography and explore the world on hikes and nature trips.
   Always learning, always building.
-"
+"""
 programming_languages = [
   "Python",
   "C",
   "Bash",
   "SQL",
-  "JavaScript"
+  "JavaScript",
 ]
-machine_leraning_and_data_sciene = [
+machine_learning_and_data_science = [
   "PyTorch",
   "Scikit-Learn",
   "Transformers",
@@ -31,7 +31,7 @@ machine_leraning_and_data_sciene = [
   "NumPy",
   "SciPy",
   "Matplotlib",
-  "Seaborn"
+  "Seaborn",
 ]
 backend_apis_and_databases = [
   "FastAPI",
@@ -39,7 +39,7 @@ backend_apis_and_databases = [
   "SQLModel",
   "PostgreSQL",
   "Pydantic",
-  "OpenAI API"
+  "OpenAI API",
 ]
 devops_and_engineering = [
   "Docker",
@@ -51,7 +51,7 @@ devops_and_engineering = [
   "Pytest",
   "Playwright",
   "uv",
-  "Ruff"
+  "Ruff",
 ]
 hobbies = ["cycling", "hiking", "photography", "F1"]
 ```
