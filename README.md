@@ -3,18 +3,18 @@
 name = "Dawid Stasiński"
 role = "Passionate Python Developer"
 about_me = "
-I'm Dawid, a Software Engineer based in Częstochowa, Poland. I specialize in Python and Backend development.
-My focus is bridging the gap between classic engineering and Machine Learning & AI.
-
-Most recently, I worked as a Software Developer at Nokia, where I automated tests and maintained CI/CD pipelines
-using Robot Framework, Docker, and Wireshark.
-I also developed CLI tools that streamlined release processes for the internal team.
-
-Currently, I'm building End-to-End ML systems (check out my F1 project!)
-and I'm open to new opportunities as a Python or ML Engineer.
-
-Beyond the screen, I capture moments through photography and explore the world on hikes and nature trips.
-Always learning, always building.
+  I'm Dawid, a Software Engineer based in Częstochowa, Poland. I specialize in Python and Backend development.
+  My focus is bridging the gap between classic engineering and Machine Learning & AI.
+  
+  Most recently, I worked as a Software Developer at Nokia, where I automated tests and maintained CI/CD pipelines
+  using Robot Framework, Docker, and Wireshark.
+  I also developed CLI tools that streamlined release processes for the internal team.
+  
+  Currently, I'm building End-to-End ML systems (check out my F1 project!)
+  and I'm open to new opportunities as a Python or ML Engineer.
+  
+  Beyond the screen, I capture moments through photography and explore the world on hikes and nature trips.
+  Always learning, always building.
 "
 programming_languages = [
   "Python",
